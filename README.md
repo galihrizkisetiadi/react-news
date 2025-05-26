@@ -1,1 +1,1 @@
-Soal algoritma berada pada folder soal_algoritma
+Soal algoritma berada pada folder app/soal_algoritma
