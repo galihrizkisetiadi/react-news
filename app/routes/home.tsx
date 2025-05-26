@@ -3,8 +3,8 @@ import { useQuery } from "@tanstack/react-query";
 
 import { Button, Card, Form, Input, Modal, Select, Space, Spin } from "antd";
 
-import type { News, Article as TypeArticle } from "app/types/news";
-import Article from "~/components/Article";
+import type { News, Article as TypeArticle } from "../types/news";
+import Article from "../components/Article";
 
 export function meta() {
 	return [{ title: "News React" }];
